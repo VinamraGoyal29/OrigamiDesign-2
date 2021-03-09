@@ -1,0 +1,12 @@
+.text{
+    background-color:darkorange;
+}
+
+
+.text{
+    text-align: center;
+}
+
+.items{
+    display:flex;
+}
